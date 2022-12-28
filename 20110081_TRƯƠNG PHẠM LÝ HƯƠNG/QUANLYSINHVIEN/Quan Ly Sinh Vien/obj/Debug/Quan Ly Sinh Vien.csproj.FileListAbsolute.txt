@@ -1,0 +1,174 @@
+C:\Users\HUONG\source\repos\Quan Ly Sinh Vien\Quan Ly Sinh Vien\bin\Debug\Quan Ly Sinh Vien.exe.config
+C:\Users\HUONG\source\repos\Quan Ly Sinh Vien\Quan Ly Sinh Vien\bin\Debug\Quan Ly Sinh Vien.exe
+C:\Users\HUONG\source\repos\Quan Ly Sinh Vien\Quan Ly Sinh Vien\bin\Debug\Quan Ly Sinh Vien.pdb
+C:\Users\HUONG\source\repos\Quan Ly Sinh Vien\Quan Ly Sinh Vien\obj\Debug\Quan Ly Sinh Vien.csproj.AssemblyReference.cache
+C:\Users\HUONG\source\repos\Quan Ly Sinh Vien\Quan Ly Sinh Vien\obj\Debug\Quan_Ly_Sinh_Vien.Properties.Resources.resources
+C:\Users\HUONG\source\repos\Quan Ly Sinh Vien\Quan Ly Sinh Vien\obj\Debug\Quan Ly Sinh Vien.csproj.GenerateResource.cache
+C:\Users\HUONG\source\repos\Quan Ly Sinh Vien\Quan Ly Sinh Vien\obj\Debug\Quan Ly Sinh Vien.csproj.CoreCompileInputs.cache
+C:\Users\HUONG\source\repos\Quan Ly Sinh Vien\Quan Ly Sinh Vien\obj\Debug\Quan Ly Sinh Vien.exe
+C:\Users\HUONG\source\repos\Quan Ly Sinh Vien\Quan Ly Sinh Vien\obj\Debug\Quan Ly Sinh Vien.pdb
+C:\Users\HUONG\source\repos\Quan Ly Sinh Vien\Quan Ly Sinh Vien\obj\Debug\Quan_Ly_Sinh_Vien.Login_Form.resources
+C:\Users\HUONG\source\repos\Day03\Quan Ly Sinh Vien\obj\Debug\Quan Ly Sinh Vien.csproj.AssemblyReference.cache
+C:\Users\HUONG\source\repos\Day03\Quan Ly Sinh Vien\obj\Debug\Quan_Ly_Sinh_Vien.AddStudentForm.resources
+C:\Users\HUONG\source\repos\Day03\Quan Ly Sinh Vien\obj\Debug\Quan_Ly_Sinh_Vien.Login_Form.resources
+C:\Users\HUONG\source\repos\Day03\Quan Ly Sinh Vien\obj\Debug\Quan_Ly_Sinh_Vien.MainForm01.resources
+C:\Users\HUONG\source\repos\Day03\Quan Ly Sinh Vien\obj\Debug\Quan_Ly_Sinh_Vien.Properties.Resources.resources
+C:\Users\HUONG\source\repos\Day03\Quan Ly Sinh Vien\obj\Debug\Quan Ly Sinh Vien.csproj.GenerateResource.cache
+C:\Users\HUONG\source\repos\Day03\Quan Ly Sinh Vien\obj\Debug\Quan Ly Sinh Vien.csproj.CoreCompileInputs.cache
+C:\Users\HUONG\source\repos\Day03\Quan Ly Sinh Vien\obj\Debug\Quan Ly Sinh Vien.exe
+C:\Users\HUONG\source\repos\Day03\Quan Ly Sinh Vien\obj\Debug\Quan Ly Sinh Vien.pdb
+C:\Users\HUONG\source\repos\Day03\Quan Ly Sinh Vien\bin\Debug\Quan Ly Sinh Vien.exe.config
+C:\Users\HUONG\source\repos\Day03\Quan Ly Sinh Vien\bin\Debug\Quan Ly Sinh Vien.exe
+C:\Users\HUONG\source\repos\Day03\Quan Ly Sinh Vien\bin\Debug\Quan Ly Sinh Vien.pdb
+C:\Users\HUONG\source\repos\WINFORM\Day04\Quan Ly Sinh Vien\bin\Debug\Quan Ly Sinh Vien.exe.config
+C:\Users\HUONG\source\repos\WINFORM\Day04\Quan Ly Sinh Vien\bin\Debug\Quan Ly Sinh Vien.exe
+C:\Users\HUONG\source\repos\WINFORM\Day04\Quan Ly Sinh Vien\bin\Debug\Quan Ly Sinh Vien.pdb
+C:\Users\HUONG\source\repos\WINFORM\Day04\Quan Ly Sinh Vien\obj\Debug\Quan_Ly_Sinh_Vien.AddStudentForm.resources
+C:\Users\HUONG\source\repos\WINFORM\Day04\Quan Ly Sinh Vien\obj\Debug\Quan_Ly_Sinh_Vien.Login_Form.resources
+C:\Users\HUONG\source\repos\WINFORM\Day04\Quan Ly Sinh Vien\obj\Debug\Quan_Ly_Sinh_Vien.MainForm01.resources
+C:\Users\HUONG\source\repos\WINFORM\Day04\Quan Ly Sinh Vien\obj\Debug\Quan_Ly_Sinh_Vien.Properties.Resources.resources
+C:\Users\HUONG\source\repos\WINFORM\Day04\Quan Ly Sinh Vien\obj\Debug\Quan Ly Sinh Vien.csproj.GenerateResource.cache
+C:\Users\HUONG\source\repos\WINFORM\Day04\Quan Ly Sinh Vien\obj\Debug\Quan Ly Sinh Vien.csproj.CoreCompileInputs.cache
+C:\Users\HUONG\source\repos\WINFORM\Day04\Quan Ly Sinh Vien\obj\Debug\Quan Ly Sinh Vien.exe
+C:\Users\HUONG\source\repos\WINFORM\Day04\Quan Ly Sinh Vien\obj\Debug\Quan Ly Sinh Vien.pdb
+C:\Users\HUONG\source\repos\WINFORM\Day04\Quan Ly Sinh Vien\obj\Debug\Quan_Ly_Sinh_Vien.UpdateDeleteStudentForm.resources
+C:\Users\HUONG\source\repos\WINFORM\Day04\Quan Ly Sinh Vien\obj\Debug\Quan_Ly_Sinh_Vien.FindStudent.resources
+C:\Users\HUONG\source\repos\WINFORM\Day04\Quan Ly Sinh Vien\obj\Debug\Quan_Ly_Sinh_Vien.Register_NewUser.resources
+C:\Users\HUONG\source\repos\WINFORM\Day04\Quan Ly Sinh Vien\obj\Debug\Quan_Ly_Sinh_Vien.StudentListForm.resources
+C:\Users\HUONG\source\repos\WINFORM\Day04\Quan Ly Sinh Vien\obj\Debug\Quan Ly Sinh Vien.csproj.AssemblyReference.cache
+C:\Users\HUONG\source\repos\WINFORM\Day05\Quan Ly Sinh Vien\bin\Debug\Quan Ly Sinh Vien.exe.config
+C:\Users\HUONG\source\repos\WINFORM\Day05\Quan Ly Sinh Vien\bin\Debug\Quan Ly Sinh Vien.exe
+C:\Users\HUONG\source\repos\WINFORM\Day05\Quan Ly Sinh Vien\bin\Debug\Quan Ly Sinh Vien.pdb
+C:\Users\HUONG\source\repos\WINFORM\Day05\Quan Ly Sinh Vien\obj\Debug\Quan_Ly_Sinh_Vien.AddStudentForm.resources
+C:\Users\HUONG\source\repos\WINFORM\Day05\Quan Ly Sinh Vien\obj\Debug\Quan_Ly_Sinh_Vien.FindStudent.resources
+C:\Users\HUONG\source\repos\WINFORM\Day05\Quan Ly Sinh Vien\obj\Debug\Quan_Ly_Sinh_Vien.Login_Form.resources
+C:\Users\HUONG\source\repos\WINFORM\Day05\Quan Ly Sinh Vien\obj\Debug\Quan_Ly_Sinh_Vien.MainForm01.resources
+C:\Users\HUONG\source\repos\WINFORM\Day05\Quan Ly Sinh Vien\obj\Debug\Quan_Ly_Sinh_Vien.ProcessBar_login.resources
+C:\Users\HUONG\source\repos\WINFORM\Day05\Quan Ly Sinh Vien\obj\Debug\Quan_Ly_Sinh_Vien.Properties.Resources.resources
+C:\Users\HUONG\source\repos\WINFORM\Day05\Quan Ly Sinh Vien\obj\Debug\Quan_Ly_Sinh_Vien.Register_NewUser.resources
+C:\Users\HUONG\source\repos\WINFORM\Day05\Quan Ly Sinh Vien\obj\Debug\Quan_Ly_Sinh_Vien.StudentListForm.resources
+C:\Users\HUONG\source\repos\WINFORM\Day05\Quan Ly Sinh Vien\obj\Debug\Quan_Ly_Sinh_Vien.UpdateDeleteStudentForm.resources
+C:\Users\HUONG\source\repos\WINFORM\Day05\Quan Ly Sinh Vien\obj\Debug\Quan Ly Sinh Vien.csproj.GenerateResource.cache
+C:\Users\HUONG\source\repos\WINFORM\Day05\Quan Ly Sinh Vien\obj\Debug\Quan Ly Sinh Vien.csproj.CoreCompileInputs.cache
+C:\Users\HUONG\source\repos\WINFORM\Day05\Quan Ly Sinh Vien\obj\Debug\Quan Ly Sinh Vien.exe
+C:\Users\HUONG\source\repos\WINFORM\Day05\Quan Ly Sinh Vien\obj\Debug\Quan Ly Sinh Vien.pdb
+C:\Users\HUONG\source\repos\WINFORM\Day05\Quan Ly Sinh Vien\obj\Debug\Quan Ly Sinh Vien.csproj.AssemblyReference.cache
+C:\Users\HUONG\source\repos\WINFORM\Day06\Quan Ly Sinh Vien\bin\Debug\Quan Ly Sinh Vien.exe.config
+C:\Users\HUONG\source\repos\WINFORM\Day06\Quan Ly Sinh Vien\bin\Debug\Quan Ly Sinh Vien.exe
+C:\Users\HUONG\source\repos\WINFORM\Day06\Quan Ly Sinh Vien\bin\Debug\Quan Ly Sinh Vien.pdb
+C:\Users\HUONG\source\repos\WINFORM\Day06\Quan Ly Sinh Vien\obj\Debug\Quan_Ly_Sinh_Vien.AddStudentForm.resources
+C:\Users\HUONG\source\repos\WINFORM\Day06\Quan Ly Sinh Vien\obj\Debug\Quan_Ly_Sinh_Vien.FindStudent.resources
+C:\Users\HUONG\source\repos\WINFORM\Day06\Quan Ly Sinh Vien\obj\Debug\Quan_Ly_Sinh_Vien.Login_Form.resources
+C:\Users\HUONG\source\repos\WINFORM\Day06\Quan Ly Sinh Vien\obj\Debug\Quan_Ly_Sinh_Vien.MainForm01.resources
+C:\Users\HUONG\source\repos\WINFORM\Day06\Quan Ly Sinh Vien\obj\Debug\Quan_Ly_Sinh_Vien.ManageStudentForm.resources
+C:\Users\HUONG\source\repos\WINFORM\Day06\Quan Ly Sinh Vien\obj\Debug\Quan_Ly_Sinh_Vien.ProcessBar_login.resources
+C:\Users\HUONG\source\repos\WINFORM\Day06\Quan Ly Sinh Vien\obj\Debug\Quan_Ly_Sinh_Vien.Properties.Resources.resources
+C:\Users\HUONG\source\repos\WINFORM\Day06\Quan Ly Sinh Vien\obj\Debug\Quan_Ly_Sinh_Vien.Register_NewUser.resources
+C:\Users\HUONG\source\repos\WINFORM\Day06\Quan Ly Sinh Vien\obj\Debug\Quan_Ly_Sinh_Vien.StaticsForm.resources
+C:\Users\HUONG\source\repos\WINFORM\Day06\Quan Ly Sinh Vien\obj\Debug\Quan_Ly_Sinh_Vien.StudentListForm.resources
+C:\Users\HUONG\source\repos\WINFORM\Day06\Quan Ly Sinh Vien\obj\Debug\Quan_Ly_Sinh_Vien.UpdateDeleteStudentForm.resources
+C:\Users\HUONG\source\repos\WINFORM\Day06\Quan Ly Sinh Vien\obj\Debug\Quan Ly Sinh Vien.csproj.GenerateResource.cache
+C:\Users\HUONG\source\repos\WINFORM\Day06\Quan Ly Sinh Vien\obj\Debug\Quan Ly Sinh Vien.csproj.CoreCompileInputs.cache
+C:\Users\HUONG\source\repos\WINFORM\Day06\Quan Ly Sinh Vien\obj\Debug\Quan Ly Sinh Vien.exe
+C:\Users\HUONG\source\repos\WINFORM\Day06\Quan Ly Sinh Vien\obj\Debug\Quan Ly Sinh Vien.pdb
+C:\Users\HUONG\source\repos\WINFORM\Day06\Quan Ly Sinh Vien\obj\Debug\Quan Ly Sinh Vien.csproj.AssemblyReference.cache
+C:\Users\HUONG\source\repos\WINFORM\Day07\Quan Ly Sinh Vien\bin\Debug\Quan Ly Sinh Vien.exe.config
+C:\Users\HUONG\source\repos\WINFORM\Day07\Quan Ly Sinh Vien\bin\Debug\Quan Ly Sinh Vien.exe
+C:\Users\HUONG\source\repos\WINFORM\Day07\Quan Ly Sinh Vien\bin\Debug\Quan Ly Sinh Vien.pdb
+C:\Users\HUONG\source\repos\WINFORM\Day07\Quan Ly Sinh Vien\obj\Debug\Quan_Ly_Sinh_Vien.AddStudentForm.resources
+C:\Users\HUONG\source\repos\WINFORM\Day07\Quan Ly Sinh Vien\obj\Debug\Quan_Ly_Sinh_Vien.FindStudent.resources
+C:\Users\HUONG\source\repos\WINFORM\Day07\Quan Ly Sinh Vien\obj\Debug\Quan_Ly_Sinh_Vien.Login_Form.resources
+C:\Users\HUONG\source\repos\WINFORM\Day07\Quan Ly Sinh Vien\obj\Debug\Quan_Ly_Sinh_Vien.MainForm01.resources
+C:\Users\HUONG\source\repos\WINFORM\Day07\Quan Ly Sinh Vien\obj\Debug\Quan_Ly_Sinh_Vien.ManageStudentForm.resources
+C:\Users\HUONG\source\repos\WINFORM\Day07\Quan Ly Sinh Vien\obj\Debug\Quan_Ly_Sinh_Vien.PrintSaveForm.resources
+C:\Users\HUONG\source\repos\WINFORM\Day07\Quan Ly Sinh Vien\obj\Debug\Quan_Ly_Sinh_Vien.ProcessBar_login.resources
+C:\Users\HUONG\source\repos\WINFORM\Day07\Quan Ly Sinh Vien\obj\Debug\Quan_Ly_Sinh_Vien.Properties.Resources.resources
+C:\Users\HUONG\source\repos\WINFORM\Day07\Quan Ly Sinh Vien\obj\Debug\Quan_Ly_Sinh_Vien.Register_NewUser.resources
+C:\Users\HUONG\source\repos\WINFORM\Day07\Quan Ly Sinh Vien\obj\Debug\Quan_Ly_Sinh_Vien.StaticsForm.resources
+C:\Users\HUONG\source\repos\WINFORM\Day07\Quan Ly Sinh Vien\obj\Debug\Quan_Ly_Sinh_Vien.StudentListForm.resources
+C:\Users\HUONG\source\repos\WINFORM\Day07\Quan Ly Sinh Vien\obj\Debug\Quan_Ly_Sinh_Vien.UpdateDeleteStudentForm.resources
+C:\Users\HUONG\source\repos\WINFORM\Day07\Quan Ly Sinh Vien\obj\Debug\Quan Ly Sinh Vien.csproj.GenerateResource.cache
+C:\Users\HUONG\source\repos\WINFORM\Day07\Quan Ly Sinh Vien\obj\Debug\Quan Ly Sinh Vien.csproj.CoreCompileInputs.cache
+C:\Users\HUONG\source\repos\WINFORM\Day07\Quan Ly Sinh Vien\obj\Debug\Quan Ly Sinh Vien.exe
+C:\Users\HUONG\source\repos\WINFORM\Day07\Quan Ly Sinh Vien\obj\Debug\Quan Ly Sinh Vien.pdb
+C:\Users\HUONG\source\repos\WINFORM\Day07\Quan Ly Sinh Vien\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\HUONG\source\repos\WINFORM\Day07\Quan Ly Sinh Vien\bin\Debug\itextsharp.dll
+C:\Users\HUONG\source\repos\WINFORM\Day07\Quan Ly Sinh Vien\bin\Debug\itextsharp.xml
+C:\Users\HUONG\source\repos\WINFORM\Day07\Quan Ly Sinh Vien\obj\Debug\Interop.PDFPreviewHandlerHostLib.dll
+C:\Users\HUONG\source\repos\WINFORM\Day07\Quan Ly Sinh Vien\obj\Debug\Quan Ly Sinh Vien.csproj.ResolveComReference.cache
+C:\Users\HUONG\source\repos\WINFORM\Day07\Quan Ly Sinh Vien\obj\Debug\Quan_Ly_Sinh_Vien.ColumnChartForm.resources
+C:\Users\HUONG\source\repos\WINFORM\Day07\Quan Ly Sinh Vien\obj\Debug\Quan_Ly_Sinh_Vien.PieChartForm.resources
+C:\Users\HUONG\source\repos\WINFORM\Day07\Quan Ly Sinh Vien\obj\Debug\Quan_Ly_Sinh_Vien.AddCourseForm.resources
+C:\Users\HUONG\source\repos\WINFORM\Day07\Quan Ly Sinh Vien\obj\Debug\Quan_Ly_Sinh_Vien.EditCousreForm.resources
+C:\Users\HUONG\source\repos\WINFORM\Day07\Quan Ly Sinh Vien\obj\Debug\Quan_Ly_Sinh_Vien.RemoveCourseForm.resources
+E:\Downloads\Day07\Quan Ly Sinh Vien\bin\Debug\Quan Ly Sinh Vien.exe.config
+E:\Downloads\Day07\Quan Ly Sinh Vien\bin\Debug\Quan Ly Sinh Vien.exe
+E:\Downloads\Day07\Quan Ly Sinh Vien\bin\Debug\Quan Ly Sinh Vien.pdb
+E:\Downloads\Day07\Quan Ly Sinh Vien\bin\Debug\BouncyCastle.Crypto.dll
+E:\Downloads\Day07\Quan Ly Sinh Vien\bin\Debug\itextsharp.dll
+E:\Downloads\Day07\Quan Ly Sinh Vien\bin\Debug\itextsharp.xml
+E:\Downloads\Day07\Quan Ly Sinh Vien\obj\Debug\Quan Ly Sinh Vien.csproj.AssemblyReference.cache
+E:\Downloads\Day07\Quan Ly Sinh Vien\obj\Debug\Interop.PDFPreviewHandlerHostLib.dll
+E:\Downloads\Day07\Quan Ly Sinh Vien\obj\Debug\Quan Ly Sinh Vien.csproj.ResolveComReference.cache
+E:\Downloads\Day07\Quan Ly Sinh Vien\obj\Debug\Quan_Ly_Sinh_Vien.AddCourseForm.resources
+E:\Downloads\Day07\Quan Ly Sinh Vien\obj\Debug\Quan_Ly_Sinh_Vien.EditCousreForm.resources
+E:\Downloads\Day07\Quan Ly Sinh Vien\obj\Debug\Quan_Ly_Sinh_Vien.ManageCourseForm.resources
+E:\Downloads\Day07\Quan Ly Sinh Vien\obj\Debug\Quan_Ly_Sinh_Vien.COURSE.PrintCourseForm.resources
+E:\Downloads\Day07\Quan Ly Sinh Vien\obj\Debug\Quan_Ly_Sinh_Vien.RemoveCourseForm.resources
+E:\Downloads\Day07\Quan Ly Sinh Vien\obj\Debug\Quan_Ly_Sinh_Vien.AddStudentForm.resources
+E:\Downloads\Day07\Quan Ly Sinh Vien\obj\Debug\Quan_Ly_Sinh_Vien.ColumnChartForm.resources
+E:\Downloads\Day07\Quan Ly Sinh Vien\obj\Debug\Quan_Ly_Sinh_Vien.STUDENT.CourseStudentList.resources
+E:\Downloads\Day07\Quan Ly Sinh Vien\obj\Debug\Quan_Ly_Sinh_Vien.FindStudent.resources
+E:\Downloads\Day07\Quan Ly Sinh Vien\obj\Debug\Quan_Ly_Sinh_Vien.Login_Form.resources
+E:\Downloads\Day07\Quan Ly Sinh Vien\obj\Debug\Quan_Ly_Sinh_Vien.MainForm01.resources
+E:\Downloads\Day07\Quan Ly Sinh Vien\obj\Debug\Quan_Ly_Sinh_Vien.ManageStudentForm.resources
+E:\Downloads\Day07\Quan Ly Sinh Vien\obj\Debug\Quan_Ly_Sinh_Vien.PieChartForm.resources
+E:\Downloads\Day07\Quan Ly Sinh Vien\obj\Debug\Quan_Ly_Sinh_Vien.PrintSaveForm.resources
+E:\Downloads\Day07\Quan Ly Sinh Vien\obj\Debug\Quan_Ly_Sinh_Vien.ProcessBar_login.resources
+E:\Downloads\Day07\Quan Ly Sinh Vien\obj\Debug\Quan_Ly_Sinh_Vien.Properties.Resources.resources
+E:\Downloads\Day07\Quan Ly Sinh Vien\obj\Debug\Quan_Ly_Sinh_Vien.Register_NewUser.resources
+E:\Downloads\Day07\Quan Ly Sinh Vien\obj\Debug\Quan_Ly_Sinh_Vien.StaticsForm.resources
+E:\Downloads\Day07\Quan Ly Sinh Vien\obj\Debug\Quan_Ly_Sinh_Vien.COURSE.StudentAddCourseForm.resources
+E:\Downloads\Day07\Quan Ly Sinh Vien\obj\Debug\Quan_Ly_Sinh_Vien.StudentListForm.resources
+E:\Downloads\Day07\Quan Ly Sinh Vien\obj\Debug\Quan_Ly_Sinh_Vien.UpdateDeleteStudentForm.resources
+E:\Downloads\Day07\Quan Ly Sinh Vien\obj\Debug\Quan Ly Sinh Vien.csproj.GenerateResource.cache
+E:\Downloads\Day07\Quan Ly Sinh Vien\obj\Debug\Quan Ly Sinh Vien.csproj.CoreCompileInputs.cache
+E:\Downloads\Day07\Quan Ly Sinh Vien\obj\Debug\Quan Ly Sinh Vien.csproj.CopyComplete
+E:\Downloads\Day07\Quan Ly Sinh Vien\obj\Debug\Quan Ly Sinh Vien.exe
+E:\Downloads\Day07\Quan Ly Sinh Vien\obj\Debug\Quan Ly Sinh Vien.pdb
+C:\Users\HUONG\source\repos\WINFORM\Day07\Quan Ly Sinh Vien\obj\Debug\Quan_Ly_Sinh_Vien.ManageCourseForm.resources
+C:\Users\HUONG\source\repos\WINFORM\Day07\Quan Ly Sinh Vien\obj\Debug\Quan Ly Sinh Vien.csproj.CopyComplete
+C:\Users\HUONG\source\repos\WINFORM\Day07\Quan Ly Sinh Vien\obj\Debug\Quan_Ly_Sinh_Vien.PrintCourseForm.resources
+C:\Users\HUONG\source\repos\WINFORM\Day07\Quan Ly Sinh Vien\obj\Debug\Quan_Ly_Sinh_Vien.AddCourseFrm.resources
+C:\Users\HUONG\source\repos\WINFORM\Day07\Quan Ly Sinh Vien\obj\Debug\Quan_Ly_Sinh_Vien.AddScoreForm.resources
+C:\Users\HUONG\source\repos\WINFORM\Day07\Quan Ly Sinh Vien\obj\Debug\Quan_Ly_Sinh_Vien.AVGScoreByCourseForm.resources
+C:\Users\HUONG\source\repos\WINFORM\Day07\Quan Ly Sinh Vien\obj\Debug\Quan_Ly_Sinh_Vien.ManageScoreForm.resources
+C:\Users\HUONG\source\repos\WINFORM\Day07\Quan Ly Sinh Vien\obj\Debug\Quan_Ly_Sinh_Vien.RemoveScoreForm.resources
+C:\Users\HUONG\source\repos\WINFORM\Day07\Quan Ly Sinh Vien\obj\Debug\Quan_Ly_Sinh_Vien.AVGResultForm.resources
+C:\Users\HUONG\source\repos\WINFORM\Day07\Quan Ly Sinh Vien\obj\Debug\Quan_Ly_Sinh_Vien.StaticResultForm.resources
+C:\Users\HUONG\source\repos\WINFORM\Day07\Quan Ly Sinh Vien\obj\Debug\Quan_Ly_Sinh_Vien.CourseStudentList.resources
+C:\Users\HUONG\source\repos\WINFORM\Day07\Quan Ly Sinh Vien\obj\Debug\Quan_Ly_Sinh_Vien.NewAccout_HR.resources
+C:\Users\HUONG\source\repos\WINFORM\Day07\Quan Ly Sinh Vien\obj\Debug\Quan_Ly_Sinh_Vien.ContactAndGroup.resources
+C:\Users\HUONG\source\repos\WINFORM\Day07\Quan Ly Sinh Vien\obj\Debug\Quan_Ly_Sinh_Vien.AddContactForm.resources
+C:\Users\HUONG\source\repos\WINFORM\Day07\Quan Ly Sinh Vien\obj\Debug\Quan_Ly_Sinh_Vien.EditContactForm.resources
+C:\Users\HUONG\source\repos\WINFORM\Day07\Quan Ly Sinh Vien\obj\Debug\Quan_Ly_Sinh_Vien.SelectContact.resources
+C:\Users\HUONG\source\repos\WINFORM\Day07\Quan Ly Sinh Vien\obj\Debug\Quan_Ly_Sinh_Vien.ContactFullListForm.resources
+C:\Users\HUONG\source\repos\WINFORM\Day07\Quan Ly Sinh Vien\bin\Debug\LiveCharts.dll
+C:\Users\HUONG\source\repos\WINFORM\Day07\Quan Ly Sinh Vien\bin\Debug\LiveCharts.WinForms.dll
+C:\Users\HUONG\source\repos\WINFORM\Day07\Quan Ly Sinh Vien\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\HUONG\source\repos\WINFORM\Day07\Quan Ly Sinh Vien\bin\Debug\LiveCharts.pdb
+C:\Users\HUONG\source\repos\WINFORM\Day07\Quan Ly Sinh Vien\bin\Debug\LiveCharts.xml
+C:\Users\HUONG\source\repos\WINFORM\Day07\Quan Ly Sinh Vien\bin\Debug\LiveCharts.WinForms.pdb
+C:\Users\HUONG\source\repos\WINFORM\Day07\Quan Ly Sinh Vien\bin\Debug\LiveCharts.WinForms.xml
+C:\Users\HUONG\source\repos\WINFORM\Day07\Quan Ly Sinh Vien\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\HUONG\source\repos\WINFORM\Day07\Quan Ly Sinh Vien\bin\Debug\LiveCharts.Wpf.xml
+C:\Users\HUONG\source\repos\WINFORM\Day07\Quan Ly Sinh Vien\obj\Debug\Quan_Ly_Sinh_Vien.StaticChartForm.resources
+C:\Users\HUONG\source\repos\WINFORM\Day07\Quan Ly Sinh Vien\obj\Debug\Quan_Ly_Sinh_Vien.AddClass_HR.resources
+C:\Users\HUONG\source\repos\WINFORM\Day07\Quan Ly Sinh Vien\obj\Debug\Quan_Ly_Sinh_Vien.StudenList_HR.resources
+C:\Users\HUONG\source\repos\WINFORM\Day07\Quan Ly Sinh Vien\obj\Debug\Quan_Ly_Sinh_Vien.ListClass_HR.resources
+C:\Users\HUONG\source\repos\WINFORM\Day07\Quan Ly Sinh Vien\obj\Debug\Quan_Ly_Sinh_Vien.Edit_InfoHR.resources
+C:\Users\HUONG\source\repos\WINFORM\Day07\Quan Ly Sinh Vien\obj\Debug\Quan_Ly_Sinh_Vien.ForgetPassword.resources
+C:\Users\HUONG\source\repos\WINFORM\Day07\Quan Ly Sinh Vien\obj\Debug\Quan_Ly_Sinh_Vien.VerifyOTP.resources
+C:\Users\HUONG\source\repos\WINFORM\Day07\Quan Ly Sinh Vien\obj\Debug\Quan Ly Sinh Vien.csproj.AssemblyReference.cache
+C:\Users\HUONG\source\repos\WINFORM\Day07\Quan Ly Sinh Vien\obj\Debug\Quan_Ly_Sinh_Vien.ResetPassword.resources
+C:\Users\HUONG\source\repos\WINFORM\Day07\Quan Ly Sinh Vien\obj\Debug\Quan_Ly_Sinh_Vien.PrintScoreForm.resources

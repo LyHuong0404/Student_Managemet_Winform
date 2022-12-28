@@ -1,0 +1,634 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{775D9383-B927-4123-B345-F4EFD28ADB28}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>Quan_Ly_Sinh_Vien</RootNamespace>
+    <AssemblyName>Quan Ly Sinh Vien</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Aspose.Words, Version=11.3.0.0, Culture=neutral, PublicKeyToken=47d5d0e1ef9d080b, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>E:\Downloads\XuatBaoCaoWordBangMailMergeAspose-main\XuatBaoCaoWordBangMailMergeAspose-main\Dll\Aspose.Words.dll</HintPath>
+    </Reference>
+    <Reference Include="BouncyCastle.Crypto, Version=1.8.9.0, Culture=neutral, PublicKeyToken=0e99375e54769942">
+      <HintPath>..\packages\BouncyCastle.1.8.9\lib\BouncyCastle.Crypto.dll</HintPath>
+    </Reference>
+    <Reference Include="itextsharp, Version=5.5.13.3, Culture=neutral, PublicKeyToken=8354ae6d2174ddca, processorArchitecture=MSIL">
+      <HintPath>..\packages\iTextSharp.5.5.13.3\lib\itextsharp.dll</HintPath>
+    </Reference>
+    <Reference Include="LiveCharts, Version=0.9.7.0, Culture=neutral, PublicKeyToken=0bc1f845d1ebb8df, processorArchitecture=MSIL">
+      <HintPath>..\packages\LiveCharts.0.9.7\lib\net45\LiveCharts.dll</HintPath>
+    </Reference>
+    <Reference Include="LiveCharts.WinForms, Version=0.9.7.1, Culture=neutral, PublicKeyToken=0bc1f845d1ebb8df, processorArchitecture=MSIL">
+      <HintPath>..\packages\LiveCharts.WinForms.0.9.7.1\lib\net45\LiveCharts.WinForms.dll</HintPath>
+    </Reference>
+    <Reference Include="LiveCharts.Wpf, Version=0.9.7.0, Culture=neutral, PublicKeyToken=0bc1f845d1ebb8df, processorArchitecture=MSIL">
+      <HintPath>..\packages\LiveCharts.Wpf.0.9.7\lib\net45\LiveCharts.Wpf.dll</HintPath>
+    </Reference>
+    <Reference Include="PresentationCore" />
+    <Reference Include="PresentationFramework" />
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Windows.Forms.DataVisualization" />
+    <Reference Include="System.Xaml" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="WindowsBase" />
+    <Reference Include="WindowsFormsIntegration" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="PrintScoreForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PrintScoreForm.Designer.cs">
+      <DependentUpon>PrintScoreForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="QUANLYSINHVIENDataSet5.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>QUANLYSINHVIENDataSet5.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="RESET_PASSWORD_FORM\ForgetPassword.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RESET_PASSWORD_FORM\ForgetPassword.Designer.cs">
+      <DependentUpon>ForgetPassword.cs</DependentUpon>
+    </Compile>
+    <Compile Include="HUMAN_RESOURCES_FORM\Edit_InfoHR.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="HUMAN_RESOURCES_FORM\Edit_InfoHR.Designer.cs">
+      <DependentUpon>Edit_InfoHR.cs</DependentUpon>
+    </Compile>
+    <Compile Include="HUMAN_RESOURCES_FORM\Class_HR.cs" />
+    <Compile Include="HUMAN_RESOURCES_FORM\AddClass_HR.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="HUMAN_RESOURCES_FORM\AddClass_HR.Designer.cs">
+      <DependentUpon>AddClass_HR.cs</DependentUpon>
+    </Compile>
+    <Compile Include="HUMAN_RESOURCES_FORM\AddContactForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="HUMAN_RESOURCES_FORM\AddContactForm.Designer.cs">
+      <DependentUpon>AddContactForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="HUMAN_RESOURCES_FORM\CONTACT.cs" />
+    <Compile Include="HUMAN_RESOURCES_FORM\ContactAndGroup.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="HUMAN_RESOURCES_FORM\ContactAndGroup.Designer.cs">
+      <DependentUpon>ContactAndGroup.cs</DependentUpon>
+    </Compile>
+    <Compile Include="HUMAN_RESOURCES_FORM\ContactFullListForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="HUMAN_RESOURCES_FORM\ContactFullListForm.Designer.cs">
+      <DependentUpon>ContactFullListForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="COURSE_FORM\AddCourseForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="COURSE_FORM\AddCourseForm.Designer.cs">
+      <DependentUpon>AddCourseForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="COURSE_FORM\AddCourseFrm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="COURSE_FORM\AddCourseFrm.Designer.cs">
+      <DependentUpon>AddCourseFrm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="HUMAN_RESOURCES_FORM\EditContactForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="HUMAN_RESOURCES_FORM\EditContactForm.Designer.cs">
+      <DependentUpon>EditContactForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Globals.cs" />
+    <Compile Include="HUMAN_RESOURCES_FORM\Group.cs" />
+    <Compile Include="HUMAN_RESOURCES_FORM\SelectContact.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="HUMAN_RESOURCES_FORM\SelectContact.Designer.cs">
+      <DependentUpon>SelectContact.cs</DependentUpon>
+    </Compile>
+    <Compile Include="HUMAN_RESOURCES_FORM\ListClass_HR.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="HUMAN_RESOURCES_FORM\ListClass_HR.Designer.cs">
+      <DependentUpon>ListClass_HR.cs</DependentUpon>
+    </Compile>
+    <Compile Include="RESET_PASSWORD_FORM\OTP.cs" />
+    <Compile Include="Lib\ReportExtensionMethod.cs" />
+    <Compile Include="RESET_PASSWORD_FORM\ResetPassword.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RESET_PASSWORD_FORM\ResetPassword.Designer.cs">
+      <DependentUpon>ResetPassword.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SCORE_FORM\StaticChartForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SCORE_FORM\StaticChartForm.Designer.cs">
+      <DependentUpon>StaticChartForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="HUMAN_RESOURCES_FORM\User.cs" />
+    <Compile Include="HUMAN_RESOURCES_FORM\NewAccout_HR.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="HUMAN_RESOURCES_FORM\NewAccout_HR.Designer.cs">
+      <DependentUpon>NewAccout_HR.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SCORE_FORM\AddScoreForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SCORE_FORM\AddScoreForm.Designer.cs">
+      <DependentUpon>AddScoreForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SCORE_FORM\AVGResultForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SCORE_FORM\AVGResultForm.Designer.cs">
+      <DependentUpon>AVGResultForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SCORE_FORM\AVGScoreByCourseForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SCORE_FORM\AVGScoreByCourseForm.Designer.cs">
+      <DependentUpon>AVGScoreByCourseForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="COURSE_FORM\COURSES.cs" />
+    <Compile Include="COURSE_FORM\EditCourseForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="COURSE_FORM\EditCourseForm.Designer.cs">
+      <DependentUpon>EditCourseForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="COURSE_FORM\ManageCourseForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="COURSE_FORM\ManageCourseForm.Designer.cs">
+      <DependentUpon>ManageCourseForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SCORE_FORM\ManageScoreForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SCORE_FORM\ManageScoreForm.Designer.cs">
+      <DependentUpon>ManageScoreForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="COURSE_FORM\PrintCourseForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="COURSE_FORM\PrintCourseForm.Designer.cs">
+      <DependentUpon>PrintCourseForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="COURSE_FORM\CourseStudentList.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="COURSE_FORM\CourseStudentList.Designer.cs">
+      <DependentUpon>CourseStudentList.cs</DependentUpon>
+    </Compile>
+    <Compile Include="QUANLYSINHVIENDataSet2.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>QUANLYSINHVIENDataSet2.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="QUANLYSINHVIENDataSet3.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>QUANLYSINHVIENDataSet3.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="QUANLYSINHVIENDataSet4.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>QUANLYSINHVIENDataSet4.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="SCORE_FORM\RemoveScoreForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SCORE_FORM\RemoveScoreForm.Designer.cs">
+      <DependentUpon>RemoveScoreForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SCORE_FORM\StaticResultForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SCORE_FORM\StaticResultForm.Designer.cs">
+      <DependentUpon>StaticResultForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="HUMAN_RESOURCES_FORM\StudenList_HR.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="HUMAN_RESOURCES_FORM\StudenList_HR.Designer.cs">
+      <DependentUpon>StudenList_HR.cs</DependentUpon>
+    </Compile>
+    <Compile Include="STUDENT_FORM\STUDENTS.cs" />
+    <Compile Include="STUDENT_FORM\AddStudentForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="STUDENT_FORM\AddStudentForm.Designer.cs">
+      <DependentUpon>AddStudentForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="STUDENT_FORM\ColumnChartForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="STUDENT_FORM\ColumnChartForm.Designer.cs">
+      <DependentUpon>ColumnChartForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="STUDENT_FORM\FindStudent.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="STUDENT_FORM\FindStudent.Designer.cs">
+      <DependentUpon>FindStudent.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MAIN_FORMQLSV\Login_Form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MAIN_FORMQLSV\Login_Form.Designer.cs">
+      <DependentUpon>Login_Form.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MAIN_FORMQLSV\MainForm01.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MAIN_FORMQLSV\MainForm01.Designer.cs">
+      <DependentUpon>MainForm01.cs</DependentUpon>
+    </Compile>
+    <Compile Include="STUDENT_FORM\ManageStudentForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="STUDENT_FORM\ManageStudentForm.Designer.cs">
+      <DependentUpon>ManageStudentForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MAIN_FORMQLSV\My_DB.cs" />
+    <Compile Include="STUDENT_FORM\PieChartForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="STUDENT_FORM\PieChartForm.Designer.cs">
+      <DependentUpon>PieChartForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="STUDENT_FORM\PrintSaveForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="STUDENT_FORM\PrintSaveForm.Designer.cs">
+      <DependentUpon>PrintSaveForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MAIN_FORMQLSV\ProcessBar_login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MAIN_FORMQLSV\ProcessBar_login.Designer.cs">
+      <DependentUpon>ProcessBar_login.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="QUANLYSINHVIENDataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>QUANLYSINHVIENDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="QUANLYSINHVIENDataSet1.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>QUANLYSINHVIENDataSet1.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="MAIN_FORMQLSV\Register_NewUser.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MAIN_FORMQLSV\Register_NewUser.Designer.cs">
+      <DependentUpon>Register_NewUser.cs</DependentUpon>
+    </Compile>
+    <Compile Include="COURSE_FORM\RemoveCourseForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="COURSE_FORM\RemoveCourseForm.Designer.cs">
+      <DependentUpon>RemoveCourseForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="STUDENT_FORM\StaticsForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="STUDENT_FORM\StaticsForm.Designer.cs">
+      <DependentUpon>StaticsForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="STUDENT_FORM\StudentListForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="STUDENT_FORM\StudentListForm.Designer.cs">
+      <DependentUpon>StudentListForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SCORE_FORM\STUDENT_SCORE.cs" />
+    <Compile Include="STUDENT_FORM\UpdateDeleteStudentForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="STUDENT_FORM\UpdateDeleteStudentForm.Designer.cs">
+      <DependentUpon>UpdateDeleteStudentForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MAIN_FORMQLSV\UserAccout.cs" />
+    <Compile Include="RESET_PASSWORD_FORM\VerifyOTP.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RESET_PASSWORD_FORM\VerifyOTP.Designer.cs">
+      <DependentUpon>VerifyOTP.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="PrintScoreForm.resx">
+      <DependentUpon>PrintScoreForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RESET_PASSWORD_FORM\ForgetPassword.resx">
+      <DependentUpon>ForgetPassword.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="HUMAN_RESOURCES_FORM\Edit_InfoHR.resx">
+      <DependentUpon>Edit_InfoHR.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="HUMAN_RESOURCES_FORM\AddClass_HR.resx">
+      <DependentUpon>AddClass_HR.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="HUMAN_RESOURCES_FORM\AddContactForm.resx">
+      <DependentUpon>AddContactForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="HUMAN_RESOURCES_FORM\ContactAndGroup.resx">
+      <DependentUpon>ContactAndGroup.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="HUMAN_RESOURCES_FORM\ContactFullListForm.resx">
+      <DependentUpon>ContactFullListForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="COURSE_FORM\AddCourseForm.resx">
+      <DependentUpon>AddCourseForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="COURSE_FORM\AddCourseFrm.resx">
+      <DependentUpon>AddCourseFrm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="HUMAN_RESOURCES_FORM\EditContactForm.resx">
+      <DependentUpon>EditContactForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="HUMAN_RESOURCES_FORM\NewAccout_HR.resx">
+      <DependentUpon>NewAccout_HR.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="HUMAN_RESOURCES_FORM\StudenList_HR.resx">
+      <DependentUpon>StudenList_HR.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="HUMAN_RESOURCES_FORM\ListClass_HR.resx">
+      <DependentUpon>ListClass_HR.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RESET_PASSWORD_FORM\ResetPassword.resx">
+      <DependentUpon>ResetPassword.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SCORE_FORM\AddScoreForm.resx">
+      <DependentUpon>AddScoreForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SCORE_FORM\AVGResultForm.resx">
+      <DependentUpon>AVGResultForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SCORE_FORM\AVGScoreByCourseForm.resx">
+      <DependentUpon>AVGScoreByCourseForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="COURSE_FORM\EditCourseForm.resx">
+      <DependentUpon>EditCourseForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="COURSE_FORM\ManageCourseForm.resx">
+      <DependentUpon>ManageCourseForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SCORE_FORM\ManageScoreForm.resx">
+      <DependentUpon>ManageScoreForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="COURSE_FORM\PrintCourseForm.resx">
+      <DependentUpon>PrintCourseForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="COURSE_FORM\RemoveCourseForm.resx">
+      <DependentUpon>RemoveCourseForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="HUMAN_RESOURCES_FORM\SelectContact.resx">
+      <DependentUpon>SelectContact.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SCORE_FORM\StaticChartForm.resx">
+      <DependentUpon>StaticChartForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="STUDENT_FORM\AddStudentForm.resx">
+      <DependentUpon>AddStudentForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="STUDENT_FORM\ColumnChartForm.resx">
+      <DependentUpon>ColumnChartForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="COURSE_FORM\CourseStudentList.resx">
+      <DependentUpon>CourseStudentList.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="STUDENT_FORM\FindStudent.resx">
+      <DependentUpon>FindStudent.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MAIN_FORMQLSV\Login_Form.resx">
+      <DependentUpon>Login_Form.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MAIN_FORMQLSV\MainForm01.resx">
+      <DependentUpon>MainForm01.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="STUDENT_FORM\ManageStudentForm.resx">
+      <DependentUpon>ManageStudentForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="STUDENT_FORM\PieChartForm.resx">
+      <DependentUpon>PieChartForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="STUDENT_FORM\PrintSaveForm.resx">
+      <DependentUpon>PrintSaveForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MAIN_FORMQLSV\ProcessBar_login.resx">
+      <DependentUpon>ProcessBar_login.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="MAIN_FORMQLSV\Register_NewUser.resx">
+      <DependentUpon>Register_NewUser.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SCORE_FORM\RemoveScoreForm.resx">
+      <DependentUpon>RemoveScoreForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SCORE_FORM\StaticResultForm.resx">
+      <DependentUpon>StaticResultForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="STUDENT_FORM\StaticsForm.resx">
+      <DependentUpon>StaticsForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="STUDENT_FORM\StudentListForm.resx">
+      <DependentUpon>StudentListForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="STUDENT_FORM\UpdateDeleteStudentForm.resx">
+      <DependentUpon>UpdateDeleteStudentForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RESET_PASSWORD_FORM\VerifyOTP.resx">
+      <DependentUpon>VerifyOTP.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <None Include="QUANLYSINHVIENDataSet.xsc">
+      <DependentUpon>QUANLYSINHVIENDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="QUANLYSINHVIENDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>QUANLYSINHVIENDataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="QUANLYSINHVIENDataSet.xss">
+      <DependentUpon>QUANLYSINHVIENDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="QUANLYSINHVIENDataSet1.xsc">
+      <DependentUpon>QUANLYSINHVIENDataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="QUANLYSINHVIENDataSet1.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>QUANLYSINHVIENDataSet1.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="QUANLYSINHVIENDataSet1.xss">
+      <DependentUpon>QUANLYSINHVIENDataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="QUANLYSINHVIENDataSet2.xsc">
+      <DependentUpon>QUANLYSINHVIENDataSet2.xsd</DependentUpon>
+    </None>
+    <None Include="QUANLYSINHVIENDataSet2.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>QUANLYSINHVIENDataSet2.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="QUANLYSINHVIENDataSet2.xss">
+      <DependentUpon>QUANLYSINHVIENDataSet2.xsd</DependentUpon>
+    </None>
+    <None Include="QUANLYSINHVIENDataSet3.xsc">
+      <DependentUpon>QUANLYSINHVIENDataSet3.xsd</DependentUpon>
+    </None>
+    <None Include="QUANLYSINHVIENDataSet3.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>QUANLYSINHVIENDataSet3.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="QUANLYSINHVIENDataSet3.xss">
+      <DependentUpon>QUANLYSINHVIENDataSet3.xsd</DependentUpon>
+    </None>
+    <None Include="QUANLYSINHVIENDataSet4.xsc">
+      <DependentUpon>QUANLYSINHVIENDataSet4.xsd</DependentUpon>
+    </None>
+    <None Include="QUANLYSINHVIENDataSet4.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>QUANLYSINHVIENDataSet4.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="QUANLYSINHVIENDataSet4.xss">
+      <DependentUpon>QUANLYSINHVIENDataSet4.xsd</DependentUpon>
+    </None>
+    <None Include="QUANLYSINHVIENDataSet5.xsc">
+      <DependentUpon>QUANLYSINHVIENDataSet5.xsd</DependentUpon>
+    </None>
+    <None Include="QUANLYSINHVIENDataSet5.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>QUANLYSINHVIENDataSet5.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="QUANLYSINHVIENDataSet5.xss">
+      <DependentUpon>QUANLYSINHVIENDataSet5.xsd</DependentUpon>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="images\Image1.jpg" />
+    <Content Include="images\Image2.jpg" />
+    <Content Include="images\Image3.jpg" />
+    <Content Include="images\imageStudent.jpg" />
+    <Content Include="images\OIP.jfif" />
+  </ItemGroup>
+  <ItemGroup>
+    <COMReference Include="Microsoft.Office.Core">
+      <Guid>{2DF8D04C-5BFA-101B-BDE5-00AA0044DE52}</Guid>
+      <VersionMajor>2</VersionMajor>
+      <VersionMinor>5</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+    <COMReference Include="Microsoft.Office.Interop.Excel">
+      <Guid>{00020813-0000-0000-C000-000000000046}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>7</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+    <COMReference Include="Microsoft.Office.Interop.Word">
+      <Guid>{00020905-0000-0000-C000-000000000046}</Guid>
+      <VersionMajor>8</VersionMajor>
+      <VersionMinor>5</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+    <COMReference Include="PDFPreviewHandlerHostLib">
+      <Guid>{2294CDCA-30F6-4323-87B3-92EB0DFD9E13}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>tlbimp</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+    <COMReference Include="VBIDE">
+      <Guid>{0002E157-0000-0000-C000-000000000046}</Guid>
+      <VersionMajor>5</VersionMajor>
+      <VersionMinor>3</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Template\" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
